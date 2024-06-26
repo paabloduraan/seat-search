@@ -1,13 +1,13 @@
 # Seat-Search
 
 ### What were your goals, and what did you accomplish over the weekend?
-Team Name: Slayathon 
+Team Name: Slayathon <br />
 Goals: Minimize wasted time looking for a seat and increase community spirit and connection. We developed a website to track study space occupancy. 
 
 ### Include the names of all your team members. For each, describe in a few words how they contributed to the project!
 Isabelle Bain: Worked on overall design with Figma, page of Building Specific Stats <br />
-Pablo Duran: Check-in page 
-Emory Haines: Page connection and general stats page 
+Pablo Duran: Check-in page <br />
+Emory Haines: Page connection and general stats page <br />
 Georgia Power: Management, brainstorming, general debugging and research 
 
 ### Acknowledgements: If your project uses major pieces of code from other sources— external libraries, other hackers, and ChatGPT— please cite them here! We’d love to give credit where credit’s due.
@@ -21,6 +21,5 @@ Frustration stemming from not finding study spaces in desired buildings after wa
 ### Tell us about a tricky bug, a design challenge, or that you encountered. How did your team tackle it together?
 We had a bug where if we did not “use client” at the header of each file, the project wouldn’t compile. Figuring out data permanence across reloads is also a frustrating issue we ran into that we did not have time to finish debugging. 
 
-### Tell us about one fun or interesting experience that you had with other hackers! Did you get coffee with new friends? 
-Did you attend a workshop that inspired you? Did you ask out your hackathon crush?
+### Tell us about one fun or interesting experience that you had with other hackers! Did you get coffee with new friends? Did you attend a workshop that inspired you? Did you ask out your hackathon crush?
 Made new friends among our team <3!
