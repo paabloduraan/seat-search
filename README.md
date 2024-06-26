@@ -16,7 +16,7 @@ ChatGPT, React library
 ## Optional Reflection: Because we love learning, tell us about what you learned this weekend!
 
 ### What motivated your team to choose this project? Are there bigger ideas or features for the project that you’d want to implement in the future?
-	Frustration stemming from not finding study spaces in desired buildings after walking long distances in uncomfortable weather. 
+Frustration stemming from not finding study spaces in desired buildings after walking long distances in uncomfortable weather. 
 
 ### Tell us about a tricky bug, a design challenge, or that you encountered. How did your team tackle it together?
 We had a bug where if we did not “use client” at the header of each file, the project wouldn’t compile. Figuring out data permanence across reloads is also a frustrating issue we ran into that we did not have time to finish debugging. 
