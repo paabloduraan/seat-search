@@ -5,7 +5,7 @@ Team Name: Slayathon
 Goals: Minimize wasted time looking for a seat and increase community spirit and connection. We developed a website to track study space occupancy. 
 
 ### Include the names of all your team members. For each, describe in a few words how they contributed to the project!
-Isabelle Bain: Worked on overall design with Figma, page of Building Specific Stats
+Isabelle Bain: Worked on overall design with Figma, page of Building Specific Stats <br />
 Pablo Duran: Check-in page 
 Emory Haines: Page connection and general stats page 
 Georgia Power: Management, brainstorming, general debugging and research 
